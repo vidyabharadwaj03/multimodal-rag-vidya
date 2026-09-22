@@ -1,0 +1,72 @@
+[
+  {
+    "image_path": "data/images/eiffel_tower.jpg",
+    "topic": "Eiffel Tower",
+    "text": "The Eiffel Tower is a lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower from 1887 to 1889."
+  },
+  {
+    "image_path": "data/images/statue_of_liberty.jpg",
+    "topic": "Statue of Liberty",
+    "text": "The Statue of Liberty is a colossal neoclassical sculpture of a robed and crowned woman on Liberty Island, part of New York City, in New York Harbor. The copper-clad statue, a gift to the United States from the people of France, was designed by French sculptor Fr\u00e9d\u00e9ric Auguste Bartholdi, and its metal framework built by Gustave Eiffel. The statue was dedicated on October 28, 1886."
+  },
+  {
+    "image_path": "data/images/great_wall_of_china.jpg",
+    "topic": "Great Wall of China",
+    "text": "The Great Wall of China is a series of fortifications in China. They were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe. The first walls date to the 7th century BC; these were joined together in the Qin dynasty. Successive dynasties expanded the wall system; the best-known sections were built by the Ming dynasty (1368\u20131644)."
+  },
+  {
+    "image_path": "data/images/taj_mahal.jpeg",
+    "topic": "Taj Mahal",
+    "text": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India. It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan, to house the tomb of his late wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall."
+  },
+  {
+    "image_path": "data/images/colosseum.jpg",
+    "topic": "Colosseum",
+    "text": "The Colosseum is an elliptical amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. It is the largest ancient amphitheatre ever built, and is the largest standing amphitheatre in the world. Construction began under the Emperor Vespasian in 72 and was completed in AD 80 under his successor and heir, Titus. Further modifications were made during the reign of Domitian. The three emperors who were patrons of the work are known as the Flavian dynasty, and the amphitheatre was named the Flavian Amphitheatre by later classicists and archaeologists for its association with their family name (Flavius)."
+  },
+  {
+    "image_path": "data/images/big_ben.jpg",
+    "topic": "Big Ben",
+    "text": "Big Ben is the nickname for the Great Bell of the Great Clock of Westminster, and, by extension, for the clock tower that stands at the north end of the Palace of Westminster in London, England. Originally named the Clock Tower, the structure was renamed the Elizabeth Tower in 2012 to mark the Diamond Jubilee of Queen Elizabeth II. The clock is a striking clock with five bells."
+  },
+  {
+    "image_path": "data/images/sydney_opera_house.jpg",
+    "topic": "Sydney Opera House",
+    "text": "The Sydney Opera House is a multi-venue performing arts centre in Sydney, New South Wales, Australia. Located on the foreshore of Sydney Harbour, it is widely regarded as one of the world's most famous and distinctive buildings, and a masterpiece of 20th-century architecture."
+  },
+  {
+    "image_path": "data/images/golden_gate_bridge.jpg",
+    "topic": "Golden Gate Bridge",
+    "text": "The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide (1.6\u00a0km) strait connecting San Francisco Bay and the Pacific Ocean in California, United States. The structure links San Francisco\u2014the northern tip of the San Francisco Peninsula\u2014to Marin County, carrying both U.S. Route 101 and California State Route 1 across the strait. It also carries pedestrian and bicycle traffic, and is designated as part of U.S. Bicycle Route 95. Recognized by the American Society of Civil Engineers as one of the Wonders of the Modern World, the bridge is one of the most internationally recognized symbols of San Francisco and California."
+  },
+  {
+    "image_path": "data/images/machu_picchu.jpg",
+    "topic": "Machu Picchu",
+    "text": "Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a mountain ridge at 2,430 meters (7,970\u00a0ft). It is situated in the Machupicchu District of Urubamba Province about 80 kilometers northwest of Cusco, above the Sacred Valley and along the Urubamba River, which forms a deep canyon with a subtropical mountain climate."
+  },
+  {
+    "image_path": "data/images/great_pyramid_of_giza.jpg",
+    "topic": "Great Pyramid of Giza",
+    "text": "The Great Pyramid of Giza is the largest of the Egyptian pyramids and the most famous landmark of the Giza pyramid complex in Giza, Egypt. It is the oldest of the Seven Wonders of the Ancient World, and the only wonder that has remained largely intact. The Great Pyramid served as the tomb of Egyptian Pharaoh Khufu (\"Cheops\"), who ruled during the Fourth Dynasty of the Old Kingdom. It was built c.\u20092600 BC over a period of about 26 years."
+  },
+  {
+    "image_path": "data/images/mount_fuji.jpg",
+    "topic": "Mount Fuji",
+    "text": "Mount Fuji  is an active stratovolcano located on the Japanese island of Honshu, with a summit elevation of 3,776.24\u00a0m. It is the highest mountain in Japan, the second-highest volcano on any Asian island, and the seventh-highest peak of an island on Earth. Mount Fuji last erupted from 1707 to 1708."
+  },
+  {
+    "image_path": "data/images/stonehenge.jpg",
+    "topic": "Stonehenge",
+    "text": "Stonehenge is a prehistoric megalithic structure on Salisbury Plain in Wiltshire, England, two miles (3\u00a0km) west of Amesbury. It consists of an outer ring of vertical sarsen standing stones, each around 13 feet (4.0\u00a0m) high, seven feet (2.1\u00a0m) wide, and weighing around 25 tons, topped by connecting horizontal lintel stones which are held in place with mortise and tenon joints\u2014a feature unique among contemporary monuments. Inside is a ring of smaller bluestones. Inside these are free-standing trilithons: two bulkier vertical sarsens joined by a single lintel. The whole monument, now in ruins, is aligned towards the sunrise on the summer solstice and sunset on the winter solstice. The stones are set within earthworks in the middle of the densest complex of Neolithic and Bronze Age monuments in England, including several hundred tumuli."
+  },
+  {
+    "image_path": "data/images/burj_khalifa.jpg",
+    "topic": "Burj Khalifa",
+    "text": "The Burj Khalifa is a megatall skyscraper in Dubai, United Arab Emirates. Designed by the SOM architectural firm, it is the world's tallest structure, with a total height of 829.8 m and a roof height of 828\u00a0m (2,717\u00a0ft). It has been the tallest building in the world since its complete inauguration in 2011, surpassing Taipei 101, which had held the record since 2004."
+  },
+  {
+    "image_path": "data/images/leaning_tower_of_pisa.jpg",
+    "topic": "Leaning Tower of Pisa",
+    "text": "The Leaning Tower of Pisa, or simply the Tower of Pisa, is the campanile, or freestanding bell tower, of Pisa Cathedral. It is known for its nearly four-degree lean, the result of an unstable foundation. The tower is one of three structures in Pisa's Cathedral Square, which includes the cathedral and Pisa Baptistry. Over time, the flawed tower has become one of the most visited tourist attractions in the world as well as an architectural icon of Italy, receiving over 5 million visitors each year."
+  }
+]
