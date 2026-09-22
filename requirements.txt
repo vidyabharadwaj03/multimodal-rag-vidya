@@ -1,0 +1,8 @@
+numpy==1.24.3
+faiss-cpu==1.7.4
+torch
+transformers
+pillow
+sentencepiece
+requests
+jupyter
